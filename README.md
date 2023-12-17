@@ -21,4 +21,3 @@ It mainitains the score of both the players and also display it to the user in r
 
 It's play time!!
 
-It's
